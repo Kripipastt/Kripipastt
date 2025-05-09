@@ -1,14 +1,13 @@
-## <p align=center> Hi, I'm Kirill Fedosov <br >Python/GoLang Developer!</p>
+## <p align=center> 👋 Hi, I'm Kirill Fedosov <br >Python/GoLang Developer!</p>
 
 - Winner and prize-winner of several hackathons/Olympiads
 - 2 years in commercial development
 - Intern at the Photon Research Institute
 
-### Connect with me in [Telegram](https://t.me/zetsubou2)
+### 🔗 Connect with me in [Telegram](https://t.me/zetsubou2)
 
 ## ⚙️ Stack:
 
---- 
 ### Frontend:
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
